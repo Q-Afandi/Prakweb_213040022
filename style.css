@@ -1,0 +1,9 @@
+body,
+a,
+h2,
+div {
+  font-family: "Encode Sans", sans-serif;
+}
+
+@media print {
+}
